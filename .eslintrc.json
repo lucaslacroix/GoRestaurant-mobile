@@ -47,6 +47,8 @@
         "allowExpressions": true
       }
     ],
+    "no-restricted-globals": "off",
+    "no-plusplus": "off",
     "import/extensions": [
       "error",
       "ignorePackages",
